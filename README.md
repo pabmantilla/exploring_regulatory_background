@@ -6,7 +6,7 @@ Each script default returns a df. Check docuementation of each to see all the pl
 
 Sections:
   1) Create (search.py(gpu), quality_control.py, sanity_plot.py)
-  2) Experiments (exp_X_check.py, run_Exp_X.py, plot_Exp.py)
+  2) Experiments
   3) Utils.py
 
   
