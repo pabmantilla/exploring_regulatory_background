@@ -6,11 +6,24 @@ Each script default returns a df. Check docuementation of each to see all the pl
 
 Sections:
   1) Create (search.py(gpu), quality_control.py, sanity_plot.py)
-  2) Experiments(1-X)
+  2) Experiments (exp_X_check.py, run_Exp_X.py, plot_Exp.py)
   3) Utils.py
 
 
 #Create
+
+
+**#Experiments**
+  exp_X_check.py
+    Checks that all information is present. Verifies that all perturbations (tfmodisco).
+  run_Exp_X.py
+    Runs the experiment (scoring).
+  plot_Exp.py
+    Plots results.
+
+
+    
+#Utils.py
 
 
 
