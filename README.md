@@ -12,8 +12,7 @@ Sections:
   
 ## Create
 
-## Experiments
-Experiments:	
+## Experiments	
   exp_X_check.py
     Checks that all information is present. Verifies that all perturbations (tfmodisco).
   run_Exp_X.py
