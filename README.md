@@ -1,4 +1,4 @@
-# exploring_regulatory_background
+# Exploring the Regulatory Background
 
 Pipeline for scoring Composite Enhancers (CEs) in Drosphila (dm6) with DeepSTARR then analyzing CE-wise and background-wise.
 
@@ -9,11 +9,11 @@ Sections:
   2) Experiments (exp_X_check.py, run_Exp_X.py, plot_Exp.py)
   3) Utils.py
 
+  
+## Create
 
-#Create
-
-
-Experiments: 
+## Experiments
+Experiments:	
   exp_X_check.py
     Checks that all information is present. Verifies that all perturbations (tfmodisco).
   run_Exp_X.py
@@ -23,7 +23,7 @@ Experiments:
 
 
     
-#Utils.py
+## Utils.py
 
 
 
