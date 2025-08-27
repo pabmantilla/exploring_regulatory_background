@@ -5,24 +5,22 @@ Pipeline for scoring Composite Enhancers (CEs) in Drosphila (dm6) with DeepSTARR
 Each script default returns a df. Check docuementation of each to see all the plotting options, alternativley use just the Plot scripts to plot. Another option is to only create df with Create scripts and use Experiements scripts to run each experiment. When trying a new motif file, it's recommended that you choose sanity_check_plot='True'. Check doc for details. 
 
 Sections:
-  1) Create (search.py(gpu), quality_control.py, sanity_plot.py)
+  1) Create
   2) Experiments
   3) Utils.py
 
   
-## Create
+- **Create**
+  - `search.py (GPU)` → CE search & scoring  
+  - `quality_control.py` → QC & filtering  
+  - `sanity_plot.py` → Sanity check plots  
 
-## Experiments	
-exp_X_check.py:
-  Checks that all information is present. Verifies that all perturbations (tfmodisco).
-  run_Exp_X.py:
-    Runs the experiment (scoring).
-  plot_Exp.py:
-    Plots results.
+- **Experiments**
+  - `exp_X_check.py` → Verify inputs & perturbations (e.g. TF-MoDISco)  
+  - `run_Exp_X.py` → Run experiment scoring (DeepSTARR Dev & Hk)
+  - `plot_Exp.py` → Generate experiment plots 
 
-
-    
-## Utils.py
-
+- **Utils**
+  - `utils.py` → Shared helper functions  
 
 
