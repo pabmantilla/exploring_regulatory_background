@@ -13,7 +13,9 @@ Sections:
 - **Create**
   - `search.py (GPU)` → CE search & scoring  
   - `quality_control.py` → QC & filtering  
-  - `sanity_plot.py` → Sanity check plots  
+  - `sanity_plot.py` → Sanity check plots
+    - CE_endo_nat_bg
+        
 
 - **Experiments**
   - `exp_X_check.py` → Verify inputs & perturbations (e.g. TF-MoDISco)  
