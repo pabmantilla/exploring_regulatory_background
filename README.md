@@ -14,7 +14,7 @@ Sections:
   - `search.py (GPU)` → CE search & scoring  
   - `quality_control.py` → QC & filtering  
   - `sanity_plot.py` → Sanity check plots
-    - CE_endo_nat_bg
+
         
 
 - **Experiments**
