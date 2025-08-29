@@ -6,11 +6,6 @@ Each script default returns a df. Check docuementation of each to see all the pl
 
 
 # Scripts
-Sections:
-  1) Create
-  2) Experiments
-  3) Utils.py
-
   
 - **Create**
   - `search.py (GPU)` → CE search & scoring  
