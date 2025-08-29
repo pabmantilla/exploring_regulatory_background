@@ -18,9 +18,9 @@ Sections:
         
 
 - **Experiments**
-  - `exp_X_check.py` → Verify inputs & perturbations (e.g. TF-MoDISco)  
+  - `check_Exp_X.py` → Verify inputs & perturbations (e.g. TF-MoDISco)  
   - `run_Exp_X.py` → Run experiment scoring (DeepSTARR Dev & Hk)
-  - `plot_Exp.py` → Generate experiment plots 
+  - `plot_Exp_X.py` → Generate experiment plots 
 
 - **Utils**
   - `utils.py` → Shared helper functions  
