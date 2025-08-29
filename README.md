@@ -29,4 +29,7 @@ Sections:
 
 
 # Definitions
-
+Endogenous Sequences - Straight from the refrence genome
+Natural Sequences - Endogenous sequences that have been modified with other endogenous sequences. Usually indicates a CE was substituted. 
+Regulatory Foreground - The sequence, orientation, and spacing of the Transcription factor binding sites (TFBS). 
+Regulatory Background - 
